@@ -24,7 +24,10 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       
+```
+Developed by : Dhayanithi T
+Reg No : 212221040040
+```
 ![Screenshot 2024-04-13 090738](https://github.com/Aaron-I/EXNO-4-DS/assets/139863034/7250a99e-ed2a-428f-a726-8ae1929a5ed8)
 ![Screenshot 2024-04-13 090810](https://github.com/Aaron-I/EXNO-4-DS/assets/139863034/f5a61f54-f512-4c18-9623-cd778e5a958e)
 ![Screenshot 2024-04-13 090848](https://github.com/Aaron-I/EXNO-4-DS/assets/139863034/fc54b36b-fd31-4448-886e-3aa07d86f77c)
